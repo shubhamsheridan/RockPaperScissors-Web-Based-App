@@ -1,0 +1,13 @@
+/* footer.component.css */
+
+/* Set text color to white */
+footer {
+    color: white;
+    background-color: #333; /* Optional background color */
+    padding: 10px; /* Optional padding for better appearance */
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center; /* Optional, to center the text horizontally */
+  }
+  
